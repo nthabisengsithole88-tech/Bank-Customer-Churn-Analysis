@@ -6,7 +6,7 @@ This project analyzes customer attrition across **10,000 banking customers** to 
 ---
 ## 🖼️ Project Showcase
 ### 📈 Power BI Interactive Dashboard
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](powerbi_dashboard.png.png)
 ---
 ### 🗄️ MySQL Analysis & Querying
 ![MySQL Queries](mysql_queries.png.png)
